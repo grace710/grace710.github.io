@@ -1,5 +1,9 @@
+body {
+  background-color: blanchedalmond;
+}
 h1 {
   font-size: 24px;
+  color: rgb(7, 51, 80);
   padding-bottom: 8px;
   border-bottom: 1px solid #ddd;
 }
